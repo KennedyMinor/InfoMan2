@@ -19,5 +19,5 @@ Databases: IBM DB2 Cloud
 Tools:  Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 You may reach me at:
-LinkedIn: LinkedIn profile link
-Email: juandelacruz@gmail.com
+LinkedIn:(https://www.linkedin.com/feed/)https://www.linkedin.com/feed/
+Email: kennedy.minor@neu.edu.ph
